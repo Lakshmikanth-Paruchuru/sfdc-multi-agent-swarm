@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Swarm runtime (per-machine / per-project — not versioned here)
+framework/.fleet/
+framework/knowledge-base/codebase/*.md
+framework/knowledge-base/connected/*.md
+framework/knowledge-base/project/*.md
+framework/knowledge-base/skills/sync-state.json
+
+# OS / IDE
+.DS_Store
+.idea/
+*.log
+
+# Local install test copies
+.tmp/
+
+# Runtime logs
+framework/*.log
+framework/fleet-server.*.log
+
+# Local demo fixture for recordings
+.demo-sfdx/
+
+# Local voice clone refs (do not publish)
+docs/blog/assets/voice/

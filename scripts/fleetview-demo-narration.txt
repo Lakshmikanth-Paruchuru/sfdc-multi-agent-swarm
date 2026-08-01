@@ -1,0 +1,15 @@
+Hey everyone. Quick tour of Agency Swarm.
+
+This is the Skills Fleet. Each card is a specialist skill — developer, reviewer, metadata sync, and so on. The feed count on each card tells you whether that skill has the knowledge it needs. Green means healthy.
+
+I'm clicking Sync Skill Feeds. That refreshes knowledge links for every skill — no language-model tokens — just wiring docs and indexes back to the right agents. Watch the cards update.
+
+Now look at one skill's feed list. You can see exactly which Salesforce topics and local files that agent is allowed to read. Specialists stay focused. They don't pull the whole org into context.
+
+Next, Orchestrator home. This is where a plain English request becomes a plan. You don't ask one mega chat to do everything. The orchestrator breaks work into orders, then Cursor specialists execute them.
+
+On Dev Swarm, here's Run Orchestrator. You'd type something like: review Apex changes and outline a test plan. Then hit run, and watch the pipeline assign the right agents.
+
+Swarm Fleet is the live status board — what's running, what finished, what failed.
+
+That's the loop. Keep feeds healthy. Let the CEO plan. Let specialists ship. Agency Swarm.

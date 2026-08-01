@@ -1,0 +1,7 @@
+{
+  "jiraBaseUrl": "https://yourcompany.atlassian.net",
+  "projectKey": "PROJ",
+  "subtaskIssueType": "Sub-task",
+  "parentStoryKey": null,
+  "targetOrgAlias": null
+}

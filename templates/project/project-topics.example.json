@@ -1,0 +1,10 @@
+[
+  {"key": "00-architecture-overview", "team": "salesforce-dev", "title": "Architecture overview"},
+  {"key": "apex-trigger-framework", "team": "salesforce-dev", "title": "Apex trigger framework"},
+  {"key": "lwc-ui-patterns", "team": "ui-ux", "title": "LWC UI patterns"},
+  {"key": "cpq-quoting-runtime", "team": "salesforce-dev", "title": "CPQ quoting runtime"},
+  {"key": "metadata-sync-and-fls", "team": "salesforce-admin", "title": "Metadata sync & FLS"},
+  {"key": "promotion-and-release", "team": "salesforce-admin", "title": "Promotion & release"},
+  {"key": "testing-and-e2e", "team": "qa", "title": "Testing & E2E"},
+  {"key": "data-model-and-automation", "team": "salesforce-admin", "title": "Data model & automation"}
+]

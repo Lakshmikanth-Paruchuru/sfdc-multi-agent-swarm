@@ -1,0 +1,15 @@
+{
+  "_comment": "Optional overrides. Leave null/omit to auto-detect from folder + sf CLI.",
+  "targetOrgAlias": null,
+  "sourcePath": null,
+  "promotionRepoRoot": null,
+  "promotionSourcePath": null,
+  "promotionRemote": "origin",
+  "defaultBaseBranch": "main",
+  "defaultPrTargetBranch": "main",
+  "jiraBaseUrl": "https://yourcompany.atlassian.net",
+  "jiraProjectKey": "PROJ",
+  "parentStoryKey": null,
+  "currentEpic": null,
+  "currentEpicTitle": null
+}
