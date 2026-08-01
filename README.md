@@ -2,7 +2,7 @@
 
 > Package / CLI name remains **Agency-Swarm** (`sfdc-swarm`).
 
-A thin Salesforce delivery swarm for [Cursor](https://cursor.com): CEO orchestration, specialist agents, LangGraph planning, and a local FleetView dashboard.
+A Salesforce delivery swarm for [Cursor](https://cursor.com): CEO orchestration, specialist agents, LangGraph planning, and a local FleetView dashboard.
 
 It keeps the **multi-agent pattern where it pays off** (research, routing, parallel specialist lanes) and keeps day-to-day Salesforce work grounded in real skills — Apex, LWC, metadata sync, Jira acceptance criteria, promotion, and E2E validation — instead of a giant chat blob.
 
