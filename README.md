@@ -294,6 +294,3 @@ python3 tests/test_framework.py
 
 CI template: copy `docs/ci/github-actions-validate.yml` to `.github/workflows/validate.yml` (GitHub token with `workflow` scope).
 
-## License
-
-[MIT](LICENSE)
